@@ -8,17 +8,34 @@ body{display: flex;
 }
 table{
     border: 1px solid black;
-    border-collapse: separate;
+    border-collapse: collapse;
     width: auto;
     margin: 0.5rem;
     border-radius: 10px;
 }
 th,td,tr{
     border: 1px solid black;
-    border-collapse: separate;
     width: auto;
-    margin: 0.5rem;
     border-radius: 10px;
+}
+#bold{
+    font-weight: bold;
+}
+#width1{
+    width: 200px;
+}
+#width2{
+    width: 150px;
+}
+#reg{
+    background-color: #007bff;
+    border-radius: 10px;
+    color: rgb(16, 16, 16);
+    padding: 5px;
+    height: 10px;
+    width: 10px;
+    margin: auto;
+    cursor: pointer;
 }
 #main-header{
     width: 100%;
@@ -35,87 +52,70 @@ th{font-size:2rem;
     background-color: #007bff;
     color: rgb(10, 10, 10);
     padding: 10px;
+    border-radius: 0px;
 }
 tr,td{font-size:1.5rem;
     text-align: center;
     padding: 10px;
 }
 </style>
+<html>
 <header id="main-header">Event Schedule Chart</header>
 <body>
 <table id="table">
     <thead id="thead">
-        <th colspan="3">Event Name</th>
+        <th colspan="4">30 days of code with TCP</th>
     </thead>
-<tr>
-    <td>Activity</td>
+<tr id="bold">
+    <td id="width1">Activity</td>
     <td>Time</td>
-    <td>Venue</td>
+    <td id="width2">Venue</td>
+    <td rowspan="2"><a id="reg" href="forms.html" target="_blank">Register Here</a></td>
 </tr>
 <tr>
-    <td>varchar</td>
-    <td>int</td>
-    <td>varchar</td>
+    <td>The challenge will run for 30 days, where participants will be given a daily coding/development challenge (released at 12:00 AM) that must be completed and pushed to GitHub before 11:59 PM on the same day</td>
+    <td>1/1/26; Midnight onwards</td>
+    <td>Online Mode</td>
 </tr>
 </table>
 <table id="table">
     <thead id="thead">
-        <th colspan="3">Event Name</th>
+        <th colspan="4">Design-O-Mania</th>
     </thead>
-<tr>
-    <td>Activity</td>
-    <td>Time</td>
-    <td>Venue</td>
+<tr id="bold">
+    <td id="width1">Activity</td>
+    <td>Deadline</td>
+    <td id="width2">Venue</td>
+    <td rowspan="2"><a id="reg" href="forms.html" target="_blank">Register Here</a></td>
+
 </tr>
 <tr>
-    <td>varchar</td>
-    <td>int</td>
-    <td>varchar</td>
+    <td>For Design O Mania choose out of these 10 books for redesign...
+Must include your Canva and Photo Editor link for authenticity check and include book name author name
+ give a hint of genre and story summary through design..
+Registration + Design submission for Round 1 till 8 Jan 11:59pm.</td>
+    <td>8 Jan</td>
+    <td>Online Mode</td>
 </tr>
 </table>
 <table id="table">
     <thead id="thead">
-        <th colspan="3">Event Name</th>
+        <th colspan="4">CRAFT YOUR CV</th>
     </thead>
-<tr>
-    <td>Activity</td>
-    <td>Time</td>
-    <td>Venue</td>
+<tr id="bold">
+    <td id="width1">Activity</td>
+    <td>Deadline</td>
+    <td id="width2">Venue</td>
+    <td rowspan="2"><a id="reg" href="forms.html" target="_blank">Register Here</a></td>
+
 </tr>
 <tr>
-    <td>varchar</td>
-    <td>int</td>
-    <td>varchar</td>
-</tr>
-</table>
-<table id="table">
-    <thead id="thead">
-        <th colspan="3">Event Name</th>
-    </thead>
-<tr>
-    <td>Activity</td>
-    <td>Time</td>
-    <td>Venue</td>
-</tr>
-<tr>
-    <td>varchar</td>
-    <td>int</td>
-    <td>varchar</td>
-</tr>
-</table>
-<table id="table">
-    <thead id="thead">
-        <th colspan="3">Event Name</th>
-    </thead>
-<tr>
-    <td>Activity</td>
-    <td>Time</td>
-    <td>Venue</td>
-</tr>
-<tr>
-    <td>varchar</td>
-    <td>int</td>
-    <td>varchar</td>
+    <td>Your CV isn't just a document — it's your first impression, your story, and your ticket to opportunities!🚀
+Join Team SAHYOG for an engaging, learning-focused event designed to help you create a CV that truly stands out</td>
+    <td>22 Jan 2025</td>
+    <td>Online Mode</td>
 </tr>
 </table>
 </body>
+</html>
+<!DOCTYPE html>
