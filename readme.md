@@ -11,4 +11,4 @@ roll: 25120078
 <img width="1920" height="1200" alt="Registration page" src="C:\Users\Public\30 days tcp\30_days_of_code_tcp_2026\Personal Portfolio\Static\Screenshot 2026-01-02 201636.png"/>
 <br>
 <h2>Day 3: CSS Styling</h2>
-<img width="1920" height="1200" alt="screenshot index" src="https://github.com/rites-h14/30_days_of_code_tcp_2026/blob/main/Personal%20Portfolio/Static/new%20index.png>
+<img width="1920" height="1200" alt="screenshot index" src="https://github.com/rites-h14/30_days_of_code_tcp_2026/blob/main/Personal%20Portfolio/Static/new%20index.png/>
