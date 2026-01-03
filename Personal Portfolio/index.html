@@ -1,87 +1,36 @@
 <!DOCTYPE html>
-<style>
-#main-header
-{display: flex;
-    background-color: #0056b3;
-    justify-content: space-between;
-    align-items: flex-start;
-    height: 200px;
-    border-radius: 25px;
-    padding: 2rem;
-    color: white;
-    margin: 1rem auto;}
-#heads {
-    background-color: #0056b3;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    align-items: center;
-    width:fit-content;
-    padding: 20px;
-    border-radius: 25px;
-    color: white;
-    margin: 1rem auto
-}
-#contents{
-    align-items: center;
-    display: flex;
-    flex-direction: column;
-}
-#left-content {
-    flex: 1; /* Takes available space */
-    text-align: left;}
-#right-content{
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end; /* Right-align children */
-    gap: 1rem;
-}
-h1
-{display: flex;
-
-    font-family: 'Times New Roman', Times, serif;
-width: 100px;
-align-items: left;
-}
-img{
-    float: right;
-    height: 150px;
-    width: 120px;
-
-}
-h5{
-    align-items: left;
-    width: 200px; ;
-}
-#btn{float: right;
-    text-align: right;
-    background: linear-gradient(135deg, #007bff, #0056b3);
-    color: white;
-    padding: 0.75rem 1.5rem;
-    border-radius: 25px;
-    font-weight: bold;
-}
-
-</style>
-
 <html>
-    <header id="main-header">
-        <div id="left-content">
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <title>Ritesh Shrivastava - Personal Portfolio</title>
+    </head>
+    <header class="main-header">
+        <div class="left-content">
             <h1 id="profile-name">Ritesh Shrivastava</h1>
             <p id="intro-text">Ritesh is a curious B.Tech student from NIT raipur, currently living in Raipur, C.G. Often spending time in surfing latest tech and science stories and having a hobbyistic approach towads fiction reading and content writing.</p>
         </div>
-        <div id="right-content">
-            <img src="Static\Myimage.jpg" id="profile-pic" alt="Profile">
-            <a href="about.html" id="btn">Know More</a>
+        <div class="right-content">
+            <img src="Static\Myimage.jpg" class="profile-pic" alt="Profile">
+            <a href="about.html" class="btn">Know More</a>
         </div>
         
     </header>
+    <div>
+        <nav class="top-nav ">
+            <ul class="nav-links">
+                <li><a href="about.html">About</a></li>
+                <li><a href="https://www.instagram.com/rites.h14/">Instagram</a></li>
+                <li><a href="https://in.linkedin.com/in/ritesh-shrivastava-59796a244">LinkedIn</a></li>
+                <li><a href="https://github.com/rites-h14/">GitHub</a></li>
+            </ul>
+        </nav>
+        </div>
     <main>
         <section>
-            <div id="heads"> 
+            <div class="heads"> 
                 <h2>My Skills</h2>
             </div>
-            <div id="contents">
+            <div class="contents">
                 <ul>
                 <li>Programming Skills : Python Basic OOP, Flask Basics</li>
                 <li>Web Dev : Basic HTML pages with CSS styling</li>
@@ -91,15 +40,15 @@ h5{
             </div>
             
         </section>
-        <section id="heads">
+        <section class="heads">
             <h2>My Projects</h2>
             
         </section>
-        <div id="contents">
+        <div class="contents">
                 <p font-size: 20px;>No significant projects to show</p>
 
             </div>
-        <section id="heads">
+        <section class="heads">
                 <h2>New Year's Pick</h2>
 <iframe width="560" height="315" 
         src="https://www.youtube-nocookie.com/embed/P6FORpg0KVo" 
