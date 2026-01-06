@@ -11,4 +11,7 @@ roll: 25120078
 <img width="1920" height="1200" alt="Registration page" src="C:\Users\Public\30 days tcp\30_days_of_code_tcp_2026\Personal Portfolio\Static\Screenshot 2026-01-02 201636.png"/>
 <br>
 <h2>Day 3: CSS Styling</h2>
-<img width="1920" height="1200" alt="screenshot index" src="Static/new index.png>
+<img width="1920" height="1200" alt="screenshot index" src="Static/new index.png"/>
+<h2> Day 4: Product Landing Page
+<img width="1920" height="1200" alt="screenshot index" src="Static/pr01.png"/>
+<img width="1920" height="1200" alt="screenshot index" src="Static/pr1.png"/>
