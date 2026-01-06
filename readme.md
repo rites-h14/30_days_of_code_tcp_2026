@@ -12,3 +12,6 @@ roll: 25120078
 <br>
 <h2>Day 3: CSS Styling</h2>
 <img width="1920" height="1200" alt="newindex" src="https://github.com/user-attachments/assets/d28c167d-6e62-4d5d-a90a-a059cfdb7d86" />
+<h2> Day 4: Product landing page</h2>
+<img width="1920" height="1200" alt="pr01" src="https://github.com/user-attachments/assets/ad265326-3943-47f3-8cb5-0278b601ed89" />
+<img width="1920" height="1200" alt="pr1" src="https://github.com/user-attachments/assets/67ca836c-8938-4dba-bc82-4c766c00929c" />
