@@ -1,0 +1,29 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "A simple Tic-Tac-Toe game with animations and custom design.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'Test step not defined'"
+  },
+  "keywords": [
+    "tic-tac-toe",
+    "game",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "animejs": "^3.2.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/tic-tac-toe.git"
+  },
+  "homepage": "https://yourusername.github.io/tic-tac-toe"
+}
