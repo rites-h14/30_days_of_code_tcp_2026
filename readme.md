@@ -15,3 +15,6 @@ roll: 25120078
 <h2> Day 4: Product landing page</h2>
 <img width="1920" height="1200" alt="pr01" src="https://github.com/user-attachments/assets/ad265326-3943-47f3-8cb5-0278b601ed89" />
 <img width="1920" height="1200" alt="pr1" src="https://github.com/user-attachments/assets/67ca836c-8938-4dba-bc82-4c766c00929c" />
+<h2> Day 5 TIc Tac Toe</h2>
+<img width="1920" height="1200" alt="t1" src="https://github.com/user-attachments/assets/03ed9d28-5ea1-4471-a585-eb575c0ccf5a" />
+<img width="1920" height="1200" alt="t2" src="https://github.com/user-attachments/assets/ccb14514-1ff7-4d1b-8268-dbf6342c253e" />
