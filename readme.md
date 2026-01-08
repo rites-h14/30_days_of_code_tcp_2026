@@ -20,3 +20,5 @@ roll: 25120078
 <img width="1920" height="1149" alt="t2" src="https://github.com/user-attachments/assets/0b20c1d0-0944-4616-91b5-d717e85bcbc5" />
 <h2>Day 6: Time Complexity problem C++ EASY</h2>
 <img width="1920" height="1200" alt="Day 6" src="https://github.com/user-attachments/assets/90012b87-5f98-4326-a243-733f1615eb20" />
+<h2> Day 7: Array Problem C++</h2>
+<img width="1920" height="1200" alt="DAy 7" src="https://github.com/user-attachments/assets/90d2597f-df94-4214-98f7-a2414074e45a" />
