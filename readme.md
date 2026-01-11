@@ -22,3 +22,11 @@ roll: 25120078
 <img width="1920" height="1200" alt="Day 6" src="https://github.com/user-attachments/assets/90012b87-5f98-4326-a243-733f1615eb20" />
 <h2> Day 7: Array Problem C++</h2>
 <img width="1920" height="1200" alt="DAy 7" src="https://github.com/user-attachments/assets/90d2597f-df94-4214-98f7-a2414074e45a" />
+<h2>Day 8 Longest consecutive sequence</h2>
+<img width="1920" height="1200" alt="8" src="https://github.com/user-attachments/assets/d782046f-ba7d-435c-861a-52bff407ff5b" />
+<h2>Day 9 Largest odd number</h2>
+<img width="1920" height="1200" alt="9" src="https://github.com/user-attachments/assets/c7c8800d-00d8-4a01-9c9f-c867c48f2978" />
+<h2>Day 10 Sorting</h2>
+<img width="1920" height="1200" alt="10" src="https://github.com/user-attachments/assets/abb9aa45-d3cd-4ec2-b951-fb1a051e4571" />
+<h2>Day 11 Merge sort</h2>
+<img width="1920" height="1200" alt="11" src="https://github.com/user-attachments/assets/6961f08a-26d8-4634-96ff-14dffb963f37" />
