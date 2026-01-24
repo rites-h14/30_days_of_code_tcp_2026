@@ -30,3 +30,9 @@ roll: 25120078
 <img width="1920" height="1200" alt="10" src="https://github.com/user-attachments/assets/abb9aa45-d3cd-4ec2-b951-fb1a051e4571" />
 <h2>Day 11 Merge sort</h2>
 <img width="1920" height="1200" alt="11" src="https://github.com/user-attachments/assets/6961f08a-26d8-4634-96ff-14dffb963f37" />
+<h2>Day 12</h2>
+<img width="1920" height="1200" alt="12" src="https://github.com/user-attachments/assets/9a74ab06-1613-41c6-ac31-8dfac4b7ad28" />
+<h2>Day 13</h2>
+<img width="1920" height="1200" alt="13" src="https://github.com/user-attachments/assets/0914b125-f82c-4803-9d43-3e94c92e4b70" />
+<h2>Day 14</h2>
+<img width="1920" height="1200" alt="14" src="https://github.com/user-attachments/assets/86329c53-62f2-4425-bf60-797f8fa4c65f" />
